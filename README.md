@@ -38,11 +38,16 @@
 ```
 bash <(wget -qO- https://raw.githubusercontent.com/fscarmen/sing-box/main/sing-box.sh)
 ```
+```
+bash <(wget -qO- https://raw.githubusercontent.com/fscarmen/sing-box/main/sing-box.sh)
+```
 
 * 再次运行
 ```
 sb
 ```
+
+
 
   | Option 参数      | Remark 备注 |
   | --------------- | ------ |
