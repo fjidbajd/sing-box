@@ -39,7 +39,7 @@
 bash <(wget -qO- https://raw.githubusercontent.com/fscarmen/sing-box/main/sing-box.sh)
 ```
 ```
-bash <(https://raw.githubusercontent.com/fjidbajd/sing-box/refs/heads/main/sing-box.sh)
+bash <(wget -qO- https://raw.githubusercontent.com/fjidbajd/sing-box/refs/heads/main/sing-box.sh)
 ```
 
 * 再次运行
